@@ -1,0 +1,15 @@
+.font{   
+    font-size: 5em;
+    color: #8D0367;
+}
+.fontdisp{
+    font-size: 5em;
+    color: #8D0367;
+    font-weight: 900;
+}
+body{
+    display:flex;
+    flex-direction: column;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-size: 500% 800%;
+}
